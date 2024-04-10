@@ -1,2 +1,3 @@
-# asociatia-philos
-Backend pentru site-ul asociației Philos, făcut în GitHub Pages.
+# Site-ul Asociației Philos
+
+Acest repo conține toate informațiile de pe site-ul Philos + documentație pentru membri pentru eficientizarea publicării comunicatelor (și oricare altă informație).
